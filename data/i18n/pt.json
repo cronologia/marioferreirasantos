@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "targetLang": "pt",
+    "coverage": "0/0",
+    "generatedBy": "nothing — this cache is deliberately EMPTY",
+    "note": "Honest empty dictionary. The English dataset is authoritative and no translation of it has been produced yet, so this file claims none: an empty strings map makes the completeness suite report exactly how many strings would render untranslated, instead of a stale cache pretending to cover a dataset it was never written for. Fill it with scripts/translate.js (which stamps generatedBy) or by hand, and record the true origin here when you do."
+  },
+  "strings": {}
+}
