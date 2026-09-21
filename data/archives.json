@@ -1,12 +1,24 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-21",
   "snapshots": {
     "http://ife.org.br/mario-ferreira-dos-santos-e-o-nosso-futuro-por-olavo-de-carvalho/": {
       "refId": "olavo-dicta-3-ife",
       "archiveUrl": "https://web.archive.org/web/20250630003501/http://ife.org.br/mario-ferreira-dos-santos-e-o-nosso-futuro-por-olavo-de-carvalho/",
       "timestamp": "20250630003501",
       "checkedAt": "2026-09-08"
+    },
+    "https://books.google.com/books/about/Homens_da_Tarde.html?id=ALGtDwAAQBAJ": {
+      "refId": "homens-da-tarde-gbooks",
+      "archiveUrl": "https://web.archive.org/web/20260914130229/https://books.google.com/books/about/Homens_da_Tarde.html?id=ALGtDwAAQBAJ",
+      "timestamp": "20260914130229",
+      "checkedAt": "2026-09-21"
+    },
+    "https://dialnet.unirioja.es/descarga/articulo/5217427.pdf": {
+      "refId": "moura-azevedo-problemata-2015",
+      "archiveUrl": "https://web.archive.org/web/20260914125929/https://dialnet.unirioja.es/descarga/articulo/5217427.pdf",
+      "timestamp": "20260914125929",
+      "checkedAt": "2026-09-21"
     },
     "https://en.wikipedia.org/wiki/M%C3%A1rio_Ferreira_dos_Santos": {
       "refId": "wikipedia-en-mfs",
@@ -31,6 +43,12 @@
       "archiveUrl": "https://web.archive.org/web/20250508145406/https://github.com/cpdoc/dhbb",
       "timestamp": "20250508145406",
       "checkedAt": "2026-09-08"
+    },
+    "https://impactum-journals.uc.pt/rfc/article/download/14352/10025/66247": {
+      "refId": "braga-coimbra-2024",
+      "archiveUrl": "https://web.archive.org/web/20260914125951/https://impactum-journals.uc.pt/rfc/article/download/14352/10025/66247",
+      "timestamp": "20260914125951",
+      "checkedAt": "2026-09-21"
     },
     "https://marioferreiradossantosfilosofiaconcreta.wordpress.com/": {
       "refId": "mfs-wp-estudos",
@@ -68,11 +86,29 @@
       "timestamp": "20241206170528",
       "checkedAt": "2026-09-08"
     },
+    "https://www.amazon.com.br/Filosofia-Concreta-Mario-Ferreira-Santos/dp/8588062712": {
+      "refId": "amazon-filosofia-concreta-2009",
+      "archiveUrl": "https://web.archive.org/web/20260914130145/https://www.amazon.com.br/Filosofia-Concreta-Mario-Ferreira-Santos/dp/8588062712",
+      "timestamp": "20260914130145",
+      "checkedAt": "2026-09-21"
+    },
     "https://www.gazetadopovo.com.br/vozes/francisco-escorsim/editoras-em-tempos-de-guerra-cultural-ii/": {
       "refId": "gazetadopovo-escorsim-2018",
       "archiveUrl": "https://web.archive.org/web/20221019233036/https://www.gazetadopovo.com.br/vozes/francisco-escorsim/editoras-em-tempos-de-guerra-cultural-ii/",
       "timestamp": "20221019233036",
       "checkedAt": "2026-09-08"
+    },
+    "https://www.goodreads.com/book/show/55359677-m-rio-ferreira-dos-santos": {
+      "refId": "goodreads-guia-2020",
+      "archiveUrl": "https://web.archive.org/web/20260914130203/https://www.goodreads.com/book/show/55359677-m-rio-ferreira-dos-santos",
+      "timestamp": "20260914130203",
+      "checkedAt": "2026-09-21"
+    },
+    "https://www.institutoculturallogos.com/p/biografia-e-fotos.html": {
+      "refId": "icl-biografia",
+      "archiveUrl": "https://web.archive.org/web/20260914130049/https://www.institutoculturallogos.com/p/biografia-e-fotos.html",
+      "timestamp": "20260914130049",
+      "checkedAt": "2026-09-21"
     },
     "https://www.institutoculturallogos.com/p/enciclopedia-das-ciencias-filosoficas.html": {
       "refId": "icl-catalogo",
