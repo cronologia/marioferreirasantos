@@ -1,12 +1,14 @@
 {
   "_meta": {
     "targetLang": "pt",
-    "coverage": "195/195",
+    "coverage": "206/206",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-09 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes. Proper names, reference titles/publishers, URLs, dates and ids are never translated.",
     "humanReviewed": false
   },
   "strings": {
+    "1947": "1947",
+    "1995": "1995",
     "Mário Ferreira dos Santos — Chronology": "Mário Ferreira dos Santos — Cronologia",
     "Chronology of Mário Ferreira dos Santos (1907–1968): life, works and reception": "Cronologia de Mário Ferreira dos Santos (1907–1968): vida, obra e recepção",
     "An open, source-referenced chronology of Mário Ferreira dos Santos — Brazilian philosopher, translator, and publisher of his own books; author of the unfinished Enciclopédia das Ciências Filosóficas e Sociais, and a documented presence in the anarchist Centro de Cultura Social in São Paulo.": "Uma cronologia aberta e referenciada em fontes de Mário Ferreira dos Santos — filósofo, tradutor e editor de seus próprios livros; autor da inacabada Enciclopédia das Ciências Filosóficas e Sociais e presença documentada no anarquista Centro de Cultura Social de São Paulo.",
@@ -201,6 +203,15 @@
     "Family testimony by his daughter — a perspective, not a fact source, and not yet mined: no claim on this site rests on it. Listed so the next pass has the address.": "Testemunho familiar da filha — uma perspectiva, não uma fonte de fatos, e ainda não explorada: nenhuma afirmação deste site se apoia nele. Listado para que a próxima passagem tenha o endereço.",
     "The revival publisher's own reading list. UNREACHABLE when this project tried it on 12 August 2026 (SSL reset / 503 bot-wall), so nothing on this site is sourced to it and the publisher's own account of its edition is represented nowhere here. Listed so the next attempt has the address.": "A lista de leitura da própria editora da retomada. INACESSÍVEL quando este projeto a tentou, em 12 de agosto de 2026 (reset de SSL / barreira antirrobô com 503), de modo que nada neste site tem nela a sua fonte e o relato da própria editora sobre a sua edição não está representado em lugar algum daqui. Listada para que a próxima tentativa tenha o endereço.",
     "User-contributed memorial database; used only as one corroborating record of the death date, alongside sources that do not depend on it.": "Base de dados memorial de contribuição dos usuários; usada apenas como um registro corroborante da data da morte, ao lado de fontes que não dependem dela.",
-    "Corpus, cited and never republished here. Upstream declares CC0 for the transcription work; the lectures themselves remain the estate's. Files carry a review status — the two entry points used on this site, COF014 (11 July 2009) and COF274 (13 December 2014), are both marked revisada — and unreviewed files are raw ASR whose header dates and proper names are unreliable. This subject saturates the corpus, so what appears on this site is two dated entry points and a paraphrase, not a census; and because 32 indexed files are known to be incomplete, any zero measured against it is a lead rather than an absence. Nothing is quoted verbatim without prior verification against the audio.": "Corpus, citado e nunca republicado aqui. O projeto de origem declara CC0 para o trabalho de transcrição; as aulas em si continuam pertencendo ao espólio. Os arquivos carregam um estado de revisão da transcrição — as duas portas de entrada usadas neste site, COF014 (11 de julho de 2009) e COF274 (13 de dezembro de 2014), estão ambas marcadas como revisada — e os arquivos não revisados são ASR bruto, cujas datas de cabeçalho e nomes próprios não são confiáveis. Este biografado satura o corpus, de modo que o que aparece neste site são duas portas de entrada datadas e uma paráfrase, não um levantamento; e porque se sabe que 32 arquivos indexados estão incompletos, qualquer zero medido contra ele é uma pista, não uma ausência. Nada é citado literalmente sem verificação prévia contra o áudio."
+    "Corpus, cited and never republished here. Upstream declares CC0 for the transcription work; the lectures themselves remain the estate's. Files carry a review status — the two entry points used on this site, COF014 (11 July 2009) and COF274 (13 December 2014), are both marked revisada — and unreviewed files are raw ASR whose header dates and proper names are unreliable. This subject saturates the corpus, so what appears on this site is two dated entry points and a paraphrase, not a census; and because 32 indexed files are known to be incomplete, any zero measured against it is a lead rather than an absence. Nothing is quoted verbatim without prior verification against the audio.": "Corpus, citado e nunca republicado aqui. O projeto de origem declara CC0 para o trabalho de transcrição; as aulas em si continuam pertencendo ao espólio. Os arquivos carregam um estado de revisão da transcrição — as duas portas de entrada usadas neste site, COF014 (11 de julho de 2009) e COF274 (13 de dezembro de 2014), estão ambas marcadas como revisada — e os arquivos não revisados são ASR bruto, cujas datas de cabeçalho e nomes próprios não são confiáveis. Este biografado satura o corpus, de modo que o que aparece neste site são duas portas de entrada datadas e uma paráfrase, não um levantamento; e porque se sabe que 32 arquivos indexados estão incompletos, qualquer zero medido contra ele é uma pista, não uma ausência. Nada é citado literalmente sem verificação prévia contra o áudio.",
+    "active 1946–1947": "em atividade em 1946–1947",
+    "Logos by 1953; Matese by 1960": "Logos já em 1953; Matese já em 1960",
+    "existing when he arrived in 1945": "já existia quando ele chegou, em 1945",
+    "employer 1943–1944": "seu empregador em 1943–1944",
+    "venue 1964–1967": "sede de seus cursos em 1964–1967",
+    "teaching post at the end of his life": "seu cargo docente no fim da vida",
+    "publisher of the 2020 Guia": "editora do Guia de 2020",
+    "publisher of the 1976 volume": "editora do volume de 1976",
+    "present-day site; founding date not established": "site atual; data de fundação não estabelecida"
   }
 }
