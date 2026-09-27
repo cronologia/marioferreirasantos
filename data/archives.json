@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-27",
   "snapshots": {
     "http://ife.org.br/mario-ferreira-dos-santos-e-o-nosso-futuro-por-olavo-de-carvalho/": {
       "refId": "olavo-dicta-3-ife",
@@ -91,6 +91,12 @@
       "archiveUrl": "https://web.archive.org/web/20260914130145/https://www.amazon.com.br/Filosofia-Concreta-Mario-Ferreira-Santos/dp/8588062712",
       "timestamp": "20260914130145",
       "checkedAt": "2026-09-21"
+    },
+    "https://www.findagrave.com/memorial/182141639/m_rio-ferreira-dos_santos": {
+      "refId": "findagrave-mfs",
+      "archiveUrl": "https://web.archive.org/web/20260921125953/https://www.findagrave.com/memorial/182141639/m_rio-ferreira-dos_santos",
+      "timestamp": "20260921125953",
+      "checkedAt": "2026-09-27"
     },
     "https://www.gazetadopovo.com.br/vozes/francisco-escorsim/editoras-em-tempos-de-guerra-cultural-ii/": {
       "refId": "gazetadopovo-escorsim-2018",
